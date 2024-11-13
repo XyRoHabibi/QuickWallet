@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+![mockup QuickWallet](https://github.com/user-attachments/assets/2c274ea8-6083-46f0-9af8-a34587569f12)# Getting Started with Create React App
+![Uploading mockup QuickWallet.png…]()
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
